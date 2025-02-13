@@ -1,0 +1,1 @@
+This is a Java-based Airline Ticket Reservation System developed using Java and SQL database. The system allows users to book, manage, and cancel flight reservations efficiently. Tech Stack Java (Core & Swing/JavaFX for UI) Eclipse IDE SQL Database (MySQL/PostgreSQL/Oracle) JDBC for Database Connectivity
